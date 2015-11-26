@@ -1,0 +1,1 @@
+This is a repository of files used to print and build the card boxes for TSSSF. These files can usually be sent directly to printers (usually Printer Studio or Print Ninja) to have them make boxes.
